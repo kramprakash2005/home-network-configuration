@@ -1,6 +1,10 @@
 # home-network-configuration
 Creating an home network and configure it with both wired and wireless connection 
 
+## Screenshots
+
+![App Screenshot](https://github.com/kramprakash2005/home-network-configuration/blob/4476cee2eaf409da80664ea00ff511bb5aff06d6/Screenshot%202024-09-22%20232728.png)
+
 As part of my ongoing coursework in the Networking Basics course at Cisco Networking Academy, I recently completed a project where I configured and simulated a home network setup. The network is configured on a home connection template using Cisco Packet Tracer and integrates both wired and wireless connections for seamless internet access across different devices. 
 
 After configuring the network, I conducted manual testing by using the ping command to check the connectivity between different devices. I tested PC-to-PC connections via the wired network and also pinged from a PC to the wireless laptop. This helped verify network reachability and stability across both wired and wireless connections.
